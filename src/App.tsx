@@ -228,7 +228,7 @@ export default function App() {
           <p className="text-sm sm:text-base text-zinc-400 leading-relaxed">
             I did everything I was told to do. Went to college, studied hard,
             graduated. I thought a degree would open doors. Instead, I graduated
-            into a job market that doesn't want me — at least not yet.
+            into a job market that doesn't want me at least not yet.
           </p>
           <p className="text-sm sm:text-base text-zinc-400 leading-relaxed">
             While I keep applying to jobs in my field, I work retail to survive.
